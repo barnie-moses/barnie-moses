@@ -1,5 +1,5 @@
 ## **👋 Hi! I'm Moses** <br>
-👨‍💻 Junior Software Developer based in the US <br><br>🎓 Computer Science major @ Michigan State University <br><br>🚀 Tech enthusiast passionate about creating impactful solutions <br><br>🤖 Machine Learning Research Assistant @ Shiu Lab, Michigan State University <br
+👨‍💻 Junior Software Developer based in the US <br><br>🎓 Computer Science major @ Michigan State University <br><br>🚀 Tech enthusiast passionate about creating impactful solutions <br><br>🤖 Machine Learning Research Assistant @ Shiu Lab, Michigan State University <br>
 
 
 # 💻 Tech Stack:
