@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Level 1: Simple bio and stats -->
 
-<!--
-**barnie-moses/barnie-moses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! I'm Moses 👋
 
-Here are some ideas to get you started:
+👨‍💻 Junior Software Developer based in the US <br>
+🎓 CS @ Michigan State University <br>
+🚀 Tech enthusiast with a passion for development <br>
+🤖 ML Research Assistant @ [Shiu Lab, Michigan State University](https://shiulab.github.io/index.html) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My tech stack includes:
+- ⚛️ ReactJS
+- 🌐 HTML5
+- 💡 JavaScript
+- 🌳 NodeJS
+- 🔮 NextJS
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=barnie-moses&count_private=true&show_icons=true&theme=radical&hide_rank=false)
